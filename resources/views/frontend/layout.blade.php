@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>NikoV2 - @yield('title')</title>
+    <title>NikoV2 - - @yield('title')</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/frontend/vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
